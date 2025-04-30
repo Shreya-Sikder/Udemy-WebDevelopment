@@ -7,14 +7,7 @@ It includes all the major projects, practice files, and experiments I've built w
 
 ## 🗂️ Projects Overview
 
-### 1. **Personal Resume Website**
-> Created using HTML only  
-🔗 [Live Demo](https://sdkdeepa.github.io/resume/)
-
-### 2. **Intro to CSS – Profile Page**
-> Styling using basic CSS properties  
-🔗 [Live Demo](https://shreya-sikder.github.io/Udemy-WebDevelopment/))
----
+(https://github.com/Shreya-Sikder/Introduction-to-CSS/tree/main/Basics%20of%20CSS)
 
 ## 🧰 Technologies & Tools
 
