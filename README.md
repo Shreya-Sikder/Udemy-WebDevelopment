@@ -7,8 +7,8 @@ It includes all the major projects, practice files, and experiments I've built w
 
 ## 🗂️ Projects Overview
 
-### 1.*Introduction to CSS*[open](https://github.com/Shreya-Sikder/Udemy-WebDevelopment/tree/main/Basics%20of%20CSS)
-### 2.*CSS Properties*(https://github.com/Shreya-Sikder/Udemy-WebDevelopment/tree/main/CSS%20Properties)
+### 1.*Introduction to CSS* [open](https://github.com/Shreya-Sikder/Udemy-WebDevelopment/tree/main/Basics%20of%20CSS)
+### 2.*CSS Properties* [open] (https://github.com/Shreya-Sikder/Udemy-WebDevelopment/tree/main/CSS%20Properties)
 
 ## 🧰 Technologies & Tools
 
