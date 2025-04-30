@@ -1,0 +1,91 @@
+/* external css*/
+html{
+    background-color:whitesmoke;
+}
+/* class selector*/
+.red-text
+{
+    color:palevioletred;
+}
+
+.title{
+    color:red;
+}
+
+.description{
+    color:pink;
+}
+/* id selector*/
+#haha{
+    color:purple
+}
+/* draggable selector*/
+p[draggable="true"]{
+    color:purple
+}
+/* universal selector*/
+*{
+    color :brown
+}
+
+
+/*first task*/
+ol{
+    margin-left:-40px;
+    margin-top:-20px;
+    list-style-position:inside;
+}
+p{
+    color: red;
+}
+.note{
+   
+    font-size: 20px;
+}
+#id-selector-demo{
+    color:green
+}
+li[value="4"]{
+    color:blue;
+}
+*{
+    text-align: center;
+}
+
+/*color vocab*/
+#red{
+    
+    color:red;
+
+}
+#blue{
+
+    color:blue;
+   
+}
+#green{
+   
+    color:green;
+
+}
+#yellow{
+ 
+    color:yellow;
+
+}
+#orange{
+ 
+    color:orange;
+ 
+}
+
+.color-title{
+    font-size: normal;
+}
+img{
+  
+    height: 200px;
+    width: 200px;
+ 
+    
+}
