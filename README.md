@@ -1,6 +1,6 @@
 # The Complete Full-Stack Web Development Bootcamp 🧑‍💻
 
-This repository documents my journey through [Angela Yu's Web Development Bootcamp]([https://www.udemy.com/course/the-complete-web-development-bootcamp/]) on Udemy.  
+This repository documents my journey through [Angela Yu's Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) on Udemy.  
 It includes all the major projects, practice files, and experiments I've built while learning **HTML**, **CSS** and more.
 
 ---
