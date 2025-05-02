@@ -1,0 +1,46 @@
+<!-- 
+comment shortcut (Ctrl+/)
+
+*** 1px = 1/96th inch  
+*** 1pt = 1/72nd inch  
+*** 1em = 100% of parent font size  
+
+<body> = 20px  
+    <h1>HELLO</h1> → 1em = 1 * 20px = 20px  
+
+*** 1rem = 100% of root  
+    root element (<html> to </html>)  
+
+If <html> has font-size: 90px →  
+    <h1>HELLO</h1> → 1rem = 1 * 90px = 90px  
+
+Full HTML Example:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>HELLO</h1>
+</body>
+</html>-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p id="pixel">1 Pixel; is 1/96th an inch</p>
+    <p id="point">1 Point; is 1/72nd an inch</p>
+    <footer>
+        <p id="em">1 em; is 100% of the parent font size</p>
+        <p id="rem">1 rem is 1005 the size of root element</p>
+    </footer>
+</body>
+
+</html>

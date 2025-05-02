@@ -1,0 +1,20 @@
+/*Font properties*/
+/*font-size*/
+#pixel{
+    font-size: 20px;
+}
+#point{
+    font-size: 20pt;
+}
+#em{
+    font-size: 1 em;
+}
+#rem{
+    font-size: 1 rem;
+}
+footer{
+    font-size: 12pt;
+}
+html{
+    font-size: xx-large;
+}
