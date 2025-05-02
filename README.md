@@ -26,8 +26,9 @@ It includes all the major projects, practice files, and experiments I've built w
 
 - [🎨 Color Hunt](https://colorhunt.co/)  
   A curated library of modern and trendy color palettes for web design inspiration.
-  <br>
--[Fonts](https://fonts.google.com/)
+
+- [🔤 Google Fonts](https://fonts.google.com/)  
+  A vast collection of free and open-source fonts for web design.
 
 ---
 
