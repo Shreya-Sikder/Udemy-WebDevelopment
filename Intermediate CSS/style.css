@@ -1,0 +1,10 @@
+li{
+    color: aliceblue;
+}
+
+.firstclass{
+    color: blue;
+}
+li[draggable]{
+    color: green;
+}
