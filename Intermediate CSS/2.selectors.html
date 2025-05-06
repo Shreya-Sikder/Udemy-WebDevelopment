@@ -1,0 +1,57 @@
+<!-- type 1:selector,selector{color:_} 
+ type 2:(parent)selector> (child) selector{color:_}
+ type 3:selectorselector{color:_}
+ ._= class, #_=id, simply h1,h2 for element
+ type 4: selector selector{color:_} 
+-->
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h1,h2{
+            color: blueviolet
+        }
+        .box>.done{
+            color:firebrick;
+        }
+        .box li{
+            color:blue;
+        }
+        li.done{
+            color:seagreen;
+
+        }
+        ul p.done{
+            font-size:0.5rem;
+        }
+    </style>
+</head>
+<body>
+<h1>
+    TO DO LIST
+</h1>
+<h2>Monday</h2>
+<div class="box"> 
+    <p class="done" >Do these things today!</p>
+    <ul  class="list">
+     <li>Wash clothes </li>
+     <li class="done">Read</li>
+     <li class="done">Maths Questions</li>
+    </ul>
+</div>
+<ul>
+    <p class="done">Other items</p>
+</ul>
+
+<p>The best preparation for tomorrow is doing your best today. </p>
+
+
+
+
+
+</body>
+</html>

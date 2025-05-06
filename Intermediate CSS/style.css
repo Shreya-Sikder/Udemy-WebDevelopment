@@ -1,0 +1,33 @@
+/*inheritance*/
+li{            /* 4*/
+    color: aliceblue;
+}
+#FIRST{       /* 1*/
+    color: red;
+}
+.firstclass{       /*3 */
+    color: blue;
+}
+li[draggable]{         /* 2*/
+    color: green;
+}
+/*task1*/
+.box{
+    background-color: blue;
+    padding:10px;
+ 
+}
+p{
+    color:yellow;
+    margin:0;
+    padding:0;
+}
+#outer-box{
+    background-color: purple;
+   
+}
+.white-text{
+   background-color:red;
+padding:10px;
+   color:white
+}
