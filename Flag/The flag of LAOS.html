@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+.Flag{
+    background-color: #ce1126;
+    width:900px;
+    height:600px;
+    position: relative;
+   
+}
+.Flag>div{
+    background-color:#002868;
+    width:900px;
+    height:300px;
+    position: absolute;
+ top:150px;
+}
+.Flag>div>div{
+    width:200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 50%;
+    position: relative;
+    top:30px;
+ left: 350px;
+}
+p{
+    font-size: 5rem;
+    text-align: center;
+    color:white;
+}
+body > div > div > div > p{
+    color:black;
+}
+/* about line 36"body > div > div > div > p" : 
+1.go to inspect mode.
+2. select the element you want to change the color.
+3. right click and select "copy" then "copy selector".
+4. paste it in the css file.
+5. change the color to what you want.
+ */
+
+
+  </style>
+</head>
+<body>
+   <div class="Flag"> 
+    <p>The flag </p>
+    <div >
+        <div >
+            <p>of Laos</p>
+ </div>
+
+    </div>
+   </div> 
+</body>
+</html>
