@@ -28,12 +28,14 @@ It includes all the major projects, practice files, and experiments I've built w
 
 - [📘 MDN Web Docs – CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)  
   A comprehensive and trusted reference for learning CSS properties and layout techniques.
-
+-[🔍 MDN Web Docs – Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries)
+  A detailed guide on how to use CSS media queries to create responsive designs.
 - [🎨 Color Hunt](https://colorhunt.co/)  
   A curated library of modern and trendy color palettes for web design inspiration.
 
 - [🔤 Google Fonts](https://fonts.google.com/)  
   A vast collection of free and open-source fonts for web design.
+
 
 ---
 
