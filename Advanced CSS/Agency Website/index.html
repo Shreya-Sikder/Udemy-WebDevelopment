@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agency Website</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Tuffy:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <style>
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    margin-top: 30px;
+    gap: 20px;
+}
+
+#a, #b {
+    flex: 1;
+    font-size: 1.2em;
+    padding: 10px;
+    max-width: 45%;
+    box-sizing: border-box;
+}
+
+img {
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin-right: 15px;
+    object-fit: cover;
+}
+
+.up{
+    font-family:"Tuffy", sans-serif;
+    color: goldenrod;
+    font-size: 3rem;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.mid{
+    font-family: "Tuffy", sans-serif;
+    color: black;
+    font-size: 5rem;
+}
+span{
+    font-family:"Tuffy", sans-serif;
+    color: rgb(29, 29, 109);
+    font-size: 5rem;
+}
+
+footer{
+    clear: both;
+    text-align: end;
+}
+
+@media (max-width: 680px) {
+  .container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  #a, #b {
+    width: 100%;
+    display: block;
+    margin-bottom: 30px;
+    text-align: justify;
+  }
+
+  img {
+    margin-bottom: 10px;
+    width: 100%;
+    display: block;
+    object-fit: cover;
+    float: none;
+  }
+}
+
+    </style>
+</head>
+<body>
+    <div class="up">dev.com
+    </div>
+    <div class="mid">We are a <span>Creative</span>
+        <br>Design Agency</div>
+        <div class="container">
+            <div id="a">
+                <img src="./assets/images/beautiful.jpg" alt="Beautiful Image" >
+                <h3>Beauty</h3>
+                <p>We strive to create the most beautiful websites for all your needs. Working closely with you to design and develop an amazing website for your business.</p>
+            </div>
+            <div id="b">
+                <img src="./assets/images/construction.jpg" alt="Construction Image">
+                <h3>Construction</h3>
+                <p>Built by our team of professional developers, we ensure the most rigorous and modern websites. Built from scratch using HTML and CSS. Only the best for you.</p>
+            </div>
+          </div>
+          
+          <footer>
+            <p>Create. Develop. Design.</p>
+          </footer>
+
+</body>
+
+</html>
