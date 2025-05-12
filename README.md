@@ -19,8 +19,8 @@ It includes all the major projects, practice files, and experiments I've built w
 ## 🧰 Technologies & Tools
 
 - HTML5  
-- CSS3 (Flexbox, Grid, Animations)  
-- jQuery  
+- CSS3 (Flexbox, Grid, Bootstrap)
+- SQL 
 - VS Code  
 
 ---
@@ -36,19 +36,6 @@ It includes all the major projects, practice files, and experiments I've built w
 
 - [🔤 Google Fonts](https://fonts.google.com/)  
   A vast collection of free and open-source fonts for web design.
-
-
----
-
-## 🚀 Work in Progress
-
-This repository will continue to grow as I progress through the course.  
-Future additions will include:
-- EJS templating
-- MongoDB with Mongoose
-- Authentication and security
-- RESTful APIs
-- React.js and deployment
 
 ---
 *HAPPY CODING!!*
