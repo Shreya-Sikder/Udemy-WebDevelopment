@@ -33,6 +33,10 @@ It includes all the major projects, practice files, and experiments I've built w
   A detailed guide on how to use CSS media queries to create responsive designs.
 - [🎨 Color Hunt](https://colorhunt.co/)  
   A curated library of modern and trendy color palettes for web design inspiration.
+- [CSS Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
+  A complete guide  about flexbox, focusing on all the different possible properties for the parent element (the flex container) and the child elements (the flex items).
+  
+  
 
 - [🔤 Google Fonts](https://fonts.google.com/)  
   A vast collection of free and open-source fonts for web design.
