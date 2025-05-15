@@ -1,0 +1,16 @@
+ Priority:
+ Content width<Width<flex-basis<min-width/max-width
+
+ max width:how each item can grow
+ min width:how each item can shrink
+
+ if  flex-basis:200px;
+    max-width:100px; then size will be 100px
+
+ if  flex-basis:50px;
+    max-width:100px;then size will be 50px
+    lesser value will be taken 
+
+    for min-width it's the opposite
+
+    flex-grow
