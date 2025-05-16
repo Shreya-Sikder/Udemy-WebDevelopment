@@ -13,7 +13,7 @@ It includes all the major projects, practice files, and experiments I've built w
 ### 4.[A Fun task: Making Flag of Different Countries](https://github.com/Shreya-Sikder/Udemy-WebDevelopment/tree/main/Flag)
 ### 5.[Advanced CSS](https://github.com/Shreya-Sikder/Udemy-WebDevelopment/tree/main/Advanced%20CSS)
 ### 6.[FlexBox](https://github.com/Shreya-Sikder/Udemy-WebDevelopment/tree/main/Flexbox)
-### 7.[Grid](https://github.com/Shreya-Sikder/Udemy-WebDevelopment/tree/main/Flexbox)
+### 7.[Grid](https://github.com/Shreya-Sikder/Udemy-WebDevelopment/tree/main/Grid)
 
 
 
